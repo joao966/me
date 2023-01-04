@@ -121,7 +121,7 @@ export const configWelcome: TypesWelcome[] = [
     sx: { variant: 'subtitle1' },
   },
   {
-    text: 'Desenvolvedor web fullstack!',
+    text: 'Busco através da tecnologia criar soluções que impactem positivamente a vida das pessoas!',
     sx: { variant: 'subtitle1' },
   },
 ];
